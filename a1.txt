@@ -9,3 +9,8 @@ git push
 git commit -m "first commit"
 git remote add url
 git push -u origin master
+git pull
+git pull fastforward
+git merge
+git amend commit id
+git push origin master
