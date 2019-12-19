@@ -1,0 +1,7 @@
+git status
+git update
+git log
+git history
+git add *
+git pull
+git push
