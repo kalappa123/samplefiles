@@ -1,0 +1,3 @@
+git work flow
+1.workspace/worktree
+2.stagingarea/index area[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D [2~area/[2~index area
